@@ -29,7 +29,7 @@
   -With great customer to customer connection ,we provide good network.
   -Issue related to transaction and products will get resolve in time.
   -Charges will get applied according to your budget.
-<<<<<<< HEAD
+
 
   ##2 User Requirement
   - We have the products from good and reputed brands.
