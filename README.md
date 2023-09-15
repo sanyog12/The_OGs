@@ -1,22 +1,15 @@
 # The_OGs 
-<<<<<<< HEAD
--Sanyog Mane
--Pranay Bisan
--Sahil Korram
--Tushar Patle
--Pratik Khond
-<\hr>
-=======
+
 - Sanyog Mane
 - Pranay Bisan
 - Sahil Korram
 - Tushar Patle
 - Pratik Khond
 <br>
->>>>>>> e0127e6759c99b6ccec1389aac381413ff63b3f1
+
 ##This is remote commit
 ##1 Process
-<<<<<<< HEAD
+
   
   1.1 Customer retention:
   - We offer a great stage to expand your brand.
