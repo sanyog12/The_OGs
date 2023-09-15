@@ -49,5 +49,4 @@
   -We also provide home delivery of the product if you wish.
   -We cares you and always tries to give you a great and value for money deal
   -If you have any queries about the product, we are always there to asist you.
->>>>>>> ea48468465ced5558348d86512e7975746c83520
->>>>>>> e0127e6759c99b6ccec1389aac381413ff63b3f1
+
