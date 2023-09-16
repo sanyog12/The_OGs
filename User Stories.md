@@ -23,3 +23,16 @@
 - As a paper setter, I want proper questions to be displayed without any error or spelling mistake in it, so that the student should experience a smooth conduction of the exam.
 
 - As a paper setter , I want proper options must be given for the questions, so that the student should not face any problem while solving the paper.
+
+# Pranay Bisan( User Interface)
+- As a student, I want to read the instructions given for the exam, sothat I can read and act accordingly.
+
+- As a student, I want to see a user friendly interface, so that I can easily use all the functions.
+
+- As a student, I want to see the reset button, so that I can change the options if I wish.
+
+- As a student, I want to see the time left for the exam, so that I can manage the exam.
+
+- As a student, I want to see all the questions and go back to the previous one, so that I can solve any questions randomly.
+
+- As a student, I want to see how many questions I attempted and how many are left, so that I can solve left questions.
