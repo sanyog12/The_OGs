@@ -23,12 +23,9 @@
 
 - As a paper setter, I want proper options must be given for the questions, so that the student should not face any problem while solving the paper.
 
-<<<<<<< HEAD
-# Pranay Bisan (User Interface)
 - As a student, I want to read the instructions given for the exam, sothat I can read and act accordingly.
-=======
+
 - As a student, I want to see the exam submitted message, so that I will know that my exam is submitted successfully.
->>>>>>> 21ea5f71f25be56022533fecbb5544f3eb68d79b
 
 - As a student, I want to see my results immediately, so that I can analyze my performance.
 
@@ -50,7 +47,6 @@
 
 - As a student, I want to see how many questions I attempted and how many are left, so that I can solve left questions.
 
-# Sahil Korram (Exam Conductor)
 - As a Student, I want to give the exam in a peaceful enviorment, so that we do not get distracted by noises.
 
 - As a Student, I want to give the exam after a small preparation leave, so that we get fully prepared for the exam.
