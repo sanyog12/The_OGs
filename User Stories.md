@@ -47,12 +47,12 @@
 
 - As a student, I want to see how many questions I attempted and how many are left, so that I can solve left questions.
 
-- As a Student, I want to give the exam in a peaceful enviorment, so that we do not get distracted by noises.
+- As a Student, I want to take the exam in a peaceful environment, so that we do not get distracted by noise.
 
-- As a Student, I want to give the exam after a small preparation leave, so that we get fully prepared for the exam.
+- As a Student, I want to take the exam after a small preparation leave, so that we get fully prepared for the exam.
 
-- As a Conductor, I want to conduct examination by fair means i.e; No electric devices are allowed, so that all the students get fair marks.
+- As a Conductor, I want to conduct examinations by fair means i.e. No electric devices are allowed, so that all the students get fair marks.
 
-- As a Conductor, I want to set the sitting arrangement i.e; one student in one bench, so that they do not cheat.
+- As a Conductor, I want to set the sitting arrangement i.e. one student in one bench, so that they do not cheat.
 
 - As a Conductor, I want students to come in time during exam also to submit the exam sheets on time, so that they follow the exam rules.

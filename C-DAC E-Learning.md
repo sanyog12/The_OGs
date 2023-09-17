@@ -2,24 +2,26 @@
 <h2>Title:</h2>
     System requirements specification for C-DAC Assesment software.
     <br>
+    
 <h2>Team:</h2>
     Students, Faculty, Center-coordinater, C-DAC managers, server managers.
   <br>
+
 <h2>Objective (Purpose):</h2>
     The C-DAC Assesment software is intended to provide a robust services to conduct exam online and provide a robust server. The software should have quality UI, Accessibility, Security, Scalability, Real-Time Monitering, Performance and Reliability.
   <br>
+
 <h2>Scope:</h2>
     This system allows student to attend exam in a particular time interval, the test is submitted automatically after the completion of exam time or when the student submit the test, moreover the students can able to reconnet to the server if any uncertain situations happens and the data will be saved on the server. 
-
   <br>
+
 <h2>Definitions:</h2>
     UI:- User Interface<br>
     C-DAC: Centre for Development of Advanced Computing
     RNo: Roll Number
-
+    <br>
 
 <h2>Functional Requirements:</h2>
-    
     There is no provision for negative marking in the examination. To ensure a seamless examination experience, students are required to possess a minimum bandwidth of 1Mbps, webcam functionality, and microphone connectivity. Additionally, it is imperative that there are no background disturbances during the examination. We strictly prohibit the presence of any other individuals during the examination. Any violations of this policy will result in immediate and stringent action by the governing authorities at C-DAC. Your cooperation in adhering to these guidelines is greatly appreciated.
   <br>
 
@@ -47,7 +49,7 @@
    Our examination platform empowers students to concurrently attempt different sections of the paper, offering valuable features such as "Marked for Review," "Question Attempted," and "Questions Left." These options enhance students' flexibility and control over their examination strategy, facilitating efficient time management and a comprehensive assessment experience.
 
 <h3>Scalability:</h3>
-The software exhibits robust efficiency in managing a substantial volume of concurrent student users. Its scalability and optimized performance ensure seamless operations, even when accommodating a significant number of students. This reliability is a testament to our commitment to delivering a smooth and dependable examination experience for all participants.
+  The software exhibits robust efficiency in managing a substantial volume of concurrent student users. Its scalability and optimized performance ensure seamless operations, even when accommodating a significant number of students. This reliability is a testament to our commitment to delivering a smooth and dependable examination experience for all participants.
 
 <h3>Safety:</h3>
    The security and confidentiality of students' personal data are of paramount importance to us. Stringent measures are in place to safeguard this information, and we are dedicated to upholding the highest standards of data protection. Rest assured, no breaches or violations of data integrity will occur under our watch, ensuring the privacy and trust of our students remain uncompromised. 
